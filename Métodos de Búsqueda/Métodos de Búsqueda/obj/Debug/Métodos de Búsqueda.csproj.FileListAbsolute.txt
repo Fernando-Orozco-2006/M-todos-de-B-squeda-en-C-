@@ -1,0 +1,7 @@
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Métodos de Búsqueda\Métodos de Búsqueda\obj\Debug\Métodos de Búsqueda.csproj.AssemblyReference.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Métodos de Búsqueda\Métodos de Búsqueda\obj\Debug\Métodos de Búsqueda.csproj.CoreCompileInputs.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Métodos de Búsqueda\Métodos de Búsqueda\bin\Debug\Métodos de Búsqueda.exe.config
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Métodos de Búsqueda\Métodos de Búsqueda\bin\Debug\Métodos de Búsqueda.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Métodos de Búsqueda\Métodos de Búsqueda\bin\Debug\Métodos de Búsqueda.pdb
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Métodos de Búsqueda\Métodos de Búsqueda\obj\Debug\Métodos de Búsqueda.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Métodos de Búsqueda\Métodos de Búsqueda\obj\Debug\Métodos de Búsqueda.pdb
