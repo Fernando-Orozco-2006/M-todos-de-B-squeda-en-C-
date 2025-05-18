@@ -20,6 +20,8 @@ Se implementaron los siguientes métodos de búsqueda:
 ## Instalación y Ejecución
 1. Clona este repositorio:
    ```bash
+   git clone https://github.com/tu-usuario/busquedas-csharp.git
+   cd busquedas-csharp
 
 2. Asegúrate de tener el SDK de .NET instalado (versión 6 o superior):
 dotnet --version
@@ -35,10 +37,25 @@ Busquedas
 Program.cs    
 
 5. Análisis de Rendimiento
-Tamaño	Secuencial	Binaria	Transformación de Clave
-1,000	    0–1 ms	   <1 ms	          <1 ms
-10,000	  2–5 ms	   <1 ms	          <1 ms
-100,000	  15–30 ms  1–2 ms	          <1 ms
+Tamaño
+1,000
+10,000
+100,000
+
+Secuencial	
+0–1 ms
+2–5 ms
+15–30 ms
+
+Binaria	Transformación de Clave
+<1 ms
+<1 ms
+1-2 ms
+
+Transformación de Clave
+<1 ms
+<1 ms
+<1 ms
 
 ## En Conclución
 - Las búsquedas secuencial son fáciles de implementar pero es ineficiente para arreglos grandes.
